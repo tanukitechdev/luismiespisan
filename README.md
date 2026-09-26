@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanukitechdev an IT early graduated.
+- 👋 Hi, I’m @tanukitechdev an IT recent graduate.
 - 👀 I’m interested in ... learn about Tech solutions in Web and Data Analysis
 - 🌱 I’m currently learning ... Web development and system administration.
 - 💞️ I’m looking to collaborate on ... nothing for now.
